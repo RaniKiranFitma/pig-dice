@@ -2,18 +2,18 @@
 
 #### A dice game where players compete to get a high score of 100 points. Fist player to reach 100 points wins.
 
-#### By Sky Rousse and Marty Fitchen
+#### By Rani_Kiran_Fatima
 
 ## Description
 
 A player will input name to create an object that will hold their name and their accumulated score. If player rolls 1 then turn changes. Goal is to reach 100 points.
 
 ## Specifications
- * _Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold"_ *
- * _If player gets a 1, they receive no points and the next player will go_ *
- * _If player receives any number other than 1, it is added to their turn total and the player continues to roll_ *
- * _If a player chooses to "hold", their turn total is added to their total score and the next player will go._ *
- * _The first player to hit 100 wins</li>
+ * _Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold"_ 
+ * _If player gets a 1, they receive no points and the next player will go_ 
+ * _If player receives any number other than 1, it is added to their turn total and the player continues to roll_ 
+ * _If a player chooses to "hold", their turn total is added to their total score and the next player will go._ 
+ * _The first player to hit 100 wins_
 
 ## Setup/Installation Requirements
 
@@ -41,6 +41,6 @@ None yet. Still work in progress
 
 ### License
 
-  Licensed under the _[MIT]_(License)
+  Licensed under the _[MIT License](https://github.com/RaniKiranFitma/pig-dice/blob/master/LICENSE)_
 
 Copyright &(copy)2018 **Rani_Kiran_Fatima**
