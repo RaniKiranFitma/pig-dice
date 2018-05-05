@@ -22,7 +22,8 @@ To create your own template repository on github
 * Clone the github repository using the git clone command from /Desktop
 * Create a new repository on github to keep your template
 * Using git remote add pair the clone on your desktop with your new repository
-* Add, commit, and push, and then you'll have your own copy of the template to do with as you wish
+* Add, commit, and push, and then you'll have your own copy of the template to do with as you wish 
+* [Go To](https://github.com/RaniKiranFitma/pig-dice)
 
 
 ## Known Bugs
